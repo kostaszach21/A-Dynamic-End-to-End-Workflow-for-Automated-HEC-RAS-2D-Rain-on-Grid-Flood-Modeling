@@ -243,7 +243,7 @@ written before the solver is ever started.
 
 ## Requirements
 
-**Python 3.13**, and **HEC-RAS 6.7** installed and licensed on the same
+**Python 3.13**, and **HEC-RAS 6.7** installed on the same
 machine. The versions below are those the published results were produced
 with; they are pinned because a silent change in `pyproj` or `hecdss` moves
 the grid.
