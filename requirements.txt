@@ -1,0 +1,18 @@
+# Pinned to the environment the published results were produced in.
+# Python 3.13
+
+numpy==2.4.6
+scipy==1.18.0
+pandas==3.0.3
+matplotlib==3.11.0
+pyproj==3.7.2
+tifffile==2026.7.31
+
+# NetCDF readers. netCDF4 is preferred and handles every NetCDF format;
+# h5py is the fallback and reads NetCDF-4 only.
+netCDF4==1.7.4
+h5py==3.16.0
+
+# HEC-DSS writing and HEC-RAS control.
+hecdss==0.1.29
+ras-commander==0.99.2

@@ -1,0 +1,9 @@
+# Your own paths. Publish config.example.ini instead.
+config.ini
+
+# Machine-specific launcher and editor settings.
+run.bat
+.vscode/
+
+__pycache__/
+*.py[cod]
